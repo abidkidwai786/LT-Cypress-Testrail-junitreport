@@ -1,0 +1,5 @@
+host: https://<testrail_url>.testrail.io
+username: <testrail email>
+password: <testrail password>
+project: <testrail project>
+title: Cypress Automated Test Run (Code-first)

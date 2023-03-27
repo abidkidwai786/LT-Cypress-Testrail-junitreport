@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="2.858" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-03-27T20:35:25" tests="0" file="cypress\e2e\todo_app\todo_smoke.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="[smoke] Todo app list" timestamp="2023-03-27T20:35:25" tests="1" time="2.825" failures="0">
+    <testcase name="[smoke] Todo app list displays two todo items by default" time="0.703" classname="displays two todo items by default">
+    </testcase>
+  </testsuite>
+</testsuites>
