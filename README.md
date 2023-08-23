@@ -27,9 +27,6 @@ trcli -y -c "trcli-config.yml" parse_junit -f "reports/junit-report.xml"
 
 LAMBDATEST STEPS:-
 
-# Install lambdatest-cypress CLI
-npm install -g lambdatest-cypress-cli 
-
 # Create lambdatest-config.json file
 lambdatest-cypress init
 
