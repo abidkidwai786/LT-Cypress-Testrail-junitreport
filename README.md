@@ -12,6 +12,9 @@ Notice the `-y` option on the script below. This will allow all test entities to
 # Install TR CLI
 pip install trcli
 
+# Install JUnit parser
+pip install junitparser
+
 # Install test project
 npm install
 
